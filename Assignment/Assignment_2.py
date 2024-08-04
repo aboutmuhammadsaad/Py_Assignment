@@ -1,33 +1,33 @@
-# # problem 1
-# print('\nProblem 1')
-# num1:int =int(input("Enter the First Number:"))
-# num2:int =int(input("Enter the Second Number:"))
+# problem 1
+print('\nProblem 1')
+num1:int =int(input("Enter the First Number:"))
+num2:int =int(input("Enter the Second Number:"))
 
-# print(f"Sum of two numbers {num1 + num2}")
+print(f"Sum of two numbers {num1 + num2}")
 
-# # problem 2
-# print('\nProblem 2')
-# animalname:str = input("What's your favorite animal?  ")
-# print(f"My favorite animal is {animalname}!")
+# problem 2
+print('\nProblem 2')
+animalname:str = input("What's your favorite animal?  ")
+print(f"My favorite animal is {animalname}!")
 
-# # problem 3
-# print('\nProblem 3')
-# degrees_fahrenheit =float(input("Enter temperature in Fahrenheit: "))
-# degrees_celsius:float = (degrees_fahrenheit - 32) * 5.0/9.0
+# problem 3
+print('\nProblem 3')
+degrees_fahrenheit =float(input("Enter temperature in Fahrenheit: "))
+degrees_celsius:float = (degrees_fahrenheit - 32) * 5.0/9.0
 
-# print(f"Temperature: {degrees_fahrenheit}F = {degrees_celsius}C")
+print(f"Temperature: {degrees_fahrenheit}F = {degrees_celsius}C")
 
-# # problem 4
-# print('\nProblem 4')
-# side1:int= int(input("What is the length of side 1?"))
-# side2:int= int(input("What is the length of side 2?"))
-# side3:int= int(input("What is the length of side 3?"))
-# print(f"The perimeter of the triangle is {side1+side2+side3}")
+# problem 4
+print('\nProblem 4')
+side1:int= int(input("What is the length of side 1?"))
+side2:int= int(input("What is the length of side 2?"))
+side3:int= int(input("What is the length of side 3?"))
+print(f"The perimeter of the triangle is {side1+side2+side3}")
 
-# # problem 5
-# print('\nProblem 5')
-# num:float =float(input("Type a number to see its square: "))
-# print(f"{num} squared is {num*num}") 
+# problem 5
+print('\nProblem 5')
+num:float =float(input("Type a number to see its square: "))
+print(f"{num} squared is {num*num}") 
 
 # problem 6
 print('\nProblem 6')
